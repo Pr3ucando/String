@@ -20,6 +20,11 @@ public class String1 {
 		int length4 = s4.length();
 		System.out.println(length4);
 		
+		String s5 = "JAGADEESAN";
+		int length5 = s5.length();
+		System.out.println(length5);
+		
+		
 		
 		
 				
